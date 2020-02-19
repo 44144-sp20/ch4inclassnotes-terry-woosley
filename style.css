@@ -1,0 +1,43 @@
+body {
+    background-color: #f4ffe4;
+    font-family: Arial, Verdana, sans-serif;
+    background-image: url(trilliumgradient.png);
+}
+header {
+    background-color: #d5edb3;
+    color: #5c743d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 80px;
+}
+h2 {
+    background-color: #d5edb3;
+    color: #5c743d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(trilliumbullet.gif);
+    background-repeat: no-repeat;
+    padding-left: 1em;
+}
+p {
+    font-size: .90em;
+}
+ul {
+    font-weight: bold;
+}
+nav {
+    font-weight: bold;
+    font-size: .75em;
+}
+footer {
+    font-size: .75em;
+    font-style: italic;
+    border-top: thin solid #aeaed4;
+    padding-top: 10px;
+}
+#container {
+    background-color: #ffffff;
+    width: 80%;
+    margin: auto;
+    box-shadow: 5px 5px 5px #1e1e1e;
+    background: url(trilliumfoot.gif) no-repeat bottom right, #ffffff;
+    padding: 20px;
+}
